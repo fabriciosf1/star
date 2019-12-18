@@ -1,3 +1,3 @@
 # Star Wars Repo
-![./tie.jpg](TIE FIGHTER)
+![TIE FIGHTER](tie.jpg)
 Este repositório do Stars Wars
